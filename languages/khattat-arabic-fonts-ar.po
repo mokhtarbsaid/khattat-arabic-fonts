@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Khattat - Arabic Fonts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-12 14:07+0000\n"
+"PO-Revision-Date: 2025-01-27 21:18+0000\n"
+"Last-Translator: Mokhtar Bensaid\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.1; wp-6.7.1\n"
+"X-Domain: khattat-arabic-fonts"
+
+#. Description of the plugin
+#| msgid ""
+#| "Add an appropriates arabic fonts from more than 20 fonts to show your "
+#| "arabic website much better."
+msgid ""
+"Add an appropriates arabic fonts from 50 fonts to show your arabic website "
+"much better."
+msgstr "أضف خطوطا عربية مناسبة من بين 50 خطا لإظهار موقعك العربي بشكل أفضل."
+
+#: admin/class-admin.php:46
+msgid "Al Jazeera"
+msgstr "الجزيرة"
+
+#: admin/class-admin.php:27
+msgid "Alexandria"
+msgstr "الاسكندرية"
+
+#: admin/class-admin.php:28
+msgid "Alkalami"
+msgstr "الكلامي"
+
+#: admin/class-admin.php:29
+msgid "Almarai"
+msgstr "المراعي"
+
+#: admin/class-admin.php:25
+msgid "Amiri"
+msgstr "أميري"
+
+#: admin/class-admin.php:26
+msgid "Amiri Quran"
+msgstr "أميري قرآن"
+
+#: admin/class-admin.php:30
+msgid "Aref Ruqaa"
+msgstr "عارف رقاعي"
+
+#: admin/class-admin.php:31
+msgid "Aref Ruqaa Ink"
+msgstr "عارف رقاعي حبر"
+
+#: admin/class-admin.php:32
+msgid "Bahij"
+msgstr "بهيج"
+
+#: admin/class-admin.php:33
+msgid "Baloo Bhaijaan 2"
+msgstr "بالو بهايجان 2"
+
+#: admin/class-admin.php:34
+msgid "Beiruti"
+msgstr "بيروتي"
+
+#: admin/class-admin.php:35
+msgid "Cairo"
+msgstr "القاهرة"
+
+#: admin/class-admin.php:36
+msgid "Cairo Play"
+msgstr "القاهرة بلاي"
+
+#: admin/class-admin.php:37
+msgid "Changa"
+msgstr "شانغا"
+
+#: admin/class-admin.php:38
+msgid "Cocon"
+msgstr "كوكون"
+
+#: admin/class-admin.php:39
+msgid "Droid Arabic Kufi"
+msgstr "درويد كوفي عربي"
+
+#: admin/class-admin.php:40
+msgid "Dubai"
+msgstr "دبي"
+
+#: admin/class-admin.php:41
+msgid "El Messiri"
+msgstr "المسيري"
+
+#: admin/class-admin.php:90
+msgid "Font"
+msgstr "الخط"
+
+#: admin/class-admin.php:42
+msgid "Fustat"
+msgstr "الفسطاط"
+
+#: admin/class-admin.php:43
+msgid "Handjet"
+msgstr "هنجات"
+
+#: admin/class-admin.php:44
+msgid "Harmattan"
+msgstr "هرمتان"
+
+#. Author URI of the plugin
+msgid "https://mokhtarbensaid.com"
+msgstr "https://mokhtarbensaid.com"
+
+#: admin/class-admin.php:45
+msgid "IBM Plex Sans Arabic"
+msgstr "IBM Plex Sans Arabic"
+
+#: admin/class-admin.php:24
+msgid "Inherit"
+msgstr "وراثة"
+
+#: admin/class-admin.php:50
+msgid "JF Flat Font"
+msgstr "جذور مسطح"
+
+#: admin/class-admin.php:47
+msgid "Jozoor"
+msgstr "جذور "
+
+#: admin/class-admin.php:48
+msgid "Katibeh"
+msgstr "كاتبة"
+
+#. Name of the plugin
+msgid "Khattat - Arabic Fonts"
+msgstr "خطاط - خطوط عربية"
+
+#: admin/class-admin.php:49
+msgid "Kufam"
+msgstr "كوفام"
+
+#: admin/class-admin.php:51
+msgid "Lalezar"
+msgstr "لالة زارا"
+
+#: admin/class-admin.php:52
+msgid "Lateef"
+msgstr "لطيف"
+
+#: admin/class-admin.php:53
+msgid "Lemonada"
+msgstr "ليمونادا"
+
+#: admin/class-admin.php:54
+msgid "Mada"
+msgstr "مدى"
+
+#: admin/class-admin.php:55
+msgid "Marhey"
+msgstr "مارهي"
+
+#: admin/class-admin.php:56
+msgid "Markazi Text"
+msgstr "مرزاقي نص"
+
+#: admin/class-admin.php:57
+msgid "Mirza"
+msgstr "ميرزا"
+
+#. Author of the plugin
+msgid "Mokhtar Bensaid"
+msgstr "مختار بن سعيد"
+
+#: admin/class-admin.php:58
+msgid "Noto Kufi Arabic"
+msgstr "نوتو كوفي عربي"
+
+#: admin/class-admin.php:59
+msgid "Noto Naskh Arabic"
+msgstr "نوتو نسخ عربي"
+
+#: admin/class-admin.php:60
+msgid "Noto Nastaliq Urdu"
+msgstr "نوتو نسطلق أوردو"
+
+#: admin/class-admin.php:61
+msgid "Noto Sans Arabic"
+msgstr "نوتو سانس عربي"
+
+#: admin/class-admin.php:62
+msgid "Rakkas"
+msgstr "رقاص"
+
+#: admin/class-admin.php:63
+msgid "Readex Pro"
+msgstr "ريدكس برو"
+
+#: admin/class-admin.php:64
+msgid "Reem Kufi"
+msgstr "ريم كوفي"
+
+#: admin/class-admin.php:65
+msgid "Reem Kufi Fun"
+msgstr "ريم كوفي مرح"
+
+#: admin/class-admin.php:66
+msgid "Reem Kufi Ink"
+msgstr "ريم كوفي حبر"
+
+#: admin/class-admin.php:67
+msgid "Rubik"
+msgstr "روبيك"
+
+#: admin/class-admin.php:68
+msgid "Ruwudu"
+msgstr "روودو"
+
+#: admin/class-admin.php:69
+msgid "Scheherazade New"
+msgstr "شهرزاد الجديدة"
+
+#: admin/class-admin.php:70
+msgid "Sky"
+msgstr "سكاي"
+
+#: admin/class-admin.php:71
+msgid "Tajawal"
+msgstr "تجوّل"
+
+#: admin/class-admin.php:72
+msgid "Vazirmatn"
+msgstr "وزير متن"
+
+#: admin/class-admin.php:73
+msgid "Vibes"
+msgstr "فيبس"
+
+#: admin/class-admin.php:74
+msgid "Zain"
+msgstr "زين"

@@ -1,0 +1,243 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Khattat - Arabic Fonts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-27 20:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1\n"
+"X-Domain: khattat-arabic-fonts"
+
+#. Description of the plugin
+msgid ""
+"Add an appropriates arabic fonts from 50 fonts to show your arabic website "
+"much better."
+msgstr ""
+
+#: admin/class-admin.php:46
+msgid "Al Jazeera"
+msgstr ""
+
+#: admin/class-admin.php:27
+msgid "Alexandria"
+msgstr ""
+
+#: admin/class-admin.php:28
+msgid "Alkalami"
+msgstr ""
+
+#: admin/class-admin.php:29
+msgid "Almarai"
+msgstr ""
+
+#: admin/class-admin.php:25
+msgid "Amiri"
+msgstr ""
+
+#: admin/class-admin.php:26
+msgid "Amiri Quran"
+msgstr ""
+
+#: admin/class-admin.php:30
+msgid "Aref Ruqaa"
+msgstr ""
+
+#: admin/class-admin.php:31
+msgid "Aref Ruqaa Ink"
+msgstr ""
+
+#: admin/class-admin.php:32
+msgid "Bahij"
+msgstr ""
+
+#: admin/class-admin.php:33
+msgid "Baloo Bhaijaan 2"
+msgstr ""
+
+#: admin/class-admin.php:34
+msgid "Beiruti"
+msgstr ""
+
+#: admin/class-admin.php:35
+msgid "Cairo"
+msgstr ""
+
+#: admin/class-admin.php:36
+msgid "Cairo Play"
+msgstr ""
+
+#: admin/class-admin.php:37
+msgid "Changa"
+msgstr ""
+
+#: admin/class-admin.php:38
+msgid "Cocon"
+msgstr ""
+
+#: admin/class-admin.php:39
+msgid "Droid Arabic Kufi"
+msgstr ""
+
+#: admin/class-admin.php:40
+msgid "Dubai"
+msgstr ""
+
+#: admin/class-admin.php:41
+msgid "El Messiri"
+msgstr ""
+
+#: admin/class-admin.php:90
+msgid "Font"
+msgstr ""
+
+#: admin/class-admin.php:42
+msgid "Fustat"
+msgstr ""
+
+#: admin/class-admin.php:43
+msgid "Handjet"
+msgstr ""
+
+#: admin/class-admin.php:44
+msgid "Harmattan"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://mokhtarbensaid.com"
+msgstr ""
+
+#: admin/class-admin.php:45
+msgid "IBM Plex Sans Arabic"
+msgstr ""
+
+#: admin/class-admin.php:24
+msgid "Inherit"
+msgstr ""
+
+#: admin/class-admin.php:50
+msgid "JF Flat Font"
+msgstr ""
+
+#: admin/class-admin.php:47
+msgid "Jozoor"
+msgstr ""
+
+#: admin/class-admin.php:48
+msgid "Katibeh"
+msgstr ""
+
+#. Name of the plugin
+msgid "Khattat - Arabic Fonts"
+msgstr ""
+
+#: admin/class-admin.php:49
+msgid "Kufam"
+msgstr ""
+
+#: admin/class-admin.php:51
+msgid "Lalezar"
+msgstr ""
+
+#: admin/class-admin.php:52
+msgid "Lateef"
+msgstr ""
+
+#: admin/class-admin.php:53
+msgid "Lemonada"
+msgstr ""
+
+#: admin/class-admin.php:54
+msgid "Mada"
+msgstr ""
+
+#: admin/class-admin.php:55
+msgid "Marhey"
+msgstr ""
+
+#: admin/class-admin.php:56
+msgid "Markazi Text"
+msgstr ""
+
+#: admin/class-admin.php:57
+msgid "Mirza"
+msgstr ""
+
+#. Author of the plugin
+msgid "Mokhtar Bensaid"
+msgstr ""
+
+#: admin/class-admin.php:58
+msgid "Noto Kufi Arabic"
+msgstr ""
+
+#: admin/class-admin.php:59
+msgid "Noto Naskh Arabic"
+msgstr ""
+
+#: admin/class-admin.php:60
+msgid "Noto Nastaliq Urdu"
+msgstr ""
+
+#: admin/class-admin.php:61
+msgid "Noto Sans Arabic"
+msgstr ""
+
+#: admin/class-admin.php:62
+msgid "Rakkas"
+msgstr ""
+
+#: admin/class-admin.php:63
+msgid "Readex Pro"
+msgstr ""
+
+#: admin/class-admin.php:64
+msgid "Reem Kufi"
+msgstr ""
+
+#: admin/class-admin.php:65
+msgid "Reem Kufi Fun"
+msgstr ""
+
+#: admin/class-admin.php:66
+msgid "Reem Kufi Ink"
+msgstr ""
+
+#: admin/class-admin.php:67
+msgid "Rubik"
+msgstr ""
+
+#: admin/class-admin.php:68
+msgid "Ruwudu"
+msgstr ""
+
+#: admin/class-admin.php:69
+msgid "Scheherazade New"
+msgstr ""
+
+#: admin/class-admin.php:70
+msgid "Sky"
+msgstr ""
+
+#: admin/class-admin.php:71
+msgid "Tajawal"
+msgstr ""
+
+#: admin/class-admin.php:72
+msgid "Vazirmatn"
+msgstr ""
+
+#: admin/class-admin.php:73
+msgid "Vibes"
+msgstr ""
+
+#: admin/class-admin.php:74
+msgid "Zain"
+msgstr ""
