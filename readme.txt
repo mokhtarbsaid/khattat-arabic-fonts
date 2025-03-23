@@ -1,4 +1,5 @@
 === Khattat - Arabic Fonts ===
+Plugin URL: https://wordpress.org/plugins/khattat-arabic-fonts
 Contributors: mokhtarbsaid
 Tags: fonts, customizer, arabic, translation ready
 Requires at least: 5.8
@@ -8,7 +9,7 @@ Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Add an appropriates arabic fonts from 50 fonts to show your arabic website much better.
+Add an appropriates arabic fonts from 100 fonts to show your arabic website much better.
 
 == Description ==
 
